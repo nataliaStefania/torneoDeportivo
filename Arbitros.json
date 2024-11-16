@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "663eeb5aa919962ab9590cc4"
+  },
+  "nombre": "Miguel ",
+  "apellido": "González ",
+  "nacionalidad": "Argentino"
+},{
+  "_id": {
+    "$oid": "663eeb5aa919962ab9590cc5"
+  },
+  "nombre": "Luisa ",
+  "apellido": "Fernández ",
+  "nacionalidad": "Español"
+},{
+  "_id": {
+    "$oid": "663eeb5aa919962ab9590cc6"
+  },
+  "nombre": " Lars  ",
+  "apellido": "Andersen ",
+  "nacionalidad": "Danes"
+},{
+  "_id": {
+    "$oid": "663eeb5aa919962ab9590cc7"
+  },
+  "nombre": "Alejandro ",
+  "apellido": "Rodriguez ",
+  "nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "663eeb5aa919962ab9590cc8"
+  },
+  "nombre": "Marta",
+  "apellido": "Silva",
+  "nacionalidad": "Brasilera"
+}]

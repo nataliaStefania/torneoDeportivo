@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "663ef049a919962ab9590ccb"
+  },
+  "idEquipoUno": 1,
+  "idEquipoDos": 5,
+  "fecha": "13/02/2025",
+  "idArbitroPricipal": 3,
+  "idResultado": 4
+},{
+  "_id": {
+    "$oid": "663ef049a919962ab9590ccc"
+  },
+  "idEquipoUno": 2,
+  "idEquipoDos": 3,
+  "fecha": "14/02/2025",
+  "idArbitroPricipal": 1,
+  "idResultado": 2
+},{
+  "_id": {
+    "$oid": "663ef049a919962ab9590ccd"
+  },
+  "idEquipoUno": 4,
+  "idEquipoDos": 1,
+  "fecha": "15/02/2025",
+  "idArbitroPricipal": 2,
+  "idResultado": 3
+},{
+  "_id": {
+    "$oid": "663ef049a919962ab9590cce"
+  },
+  "idEquipoUno": 3,
+  "idEquipoDos": 4,
+  "fecha": "16/02/2025",
+  "idArbitroPricipal": 5,
+  "idResultado": 5
+},{
+  "_id": {
+    "$oid": "663ef049a919962ab9590ccf"
+  },
+  "idEquipoUno": 1,
+  "idEquipoDos": 5,
+  "fecha": "17/02/2025",
+  "idArbitroPricipal": 4,
+  "idResultado": 1
+}]

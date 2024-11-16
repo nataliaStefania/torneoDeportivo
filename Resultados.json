@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "663ef18fa919962ab9590cd2"
+  },
+  "idEncuentro": 4,
+  "golesEquipoUno": 2,
+  "golesEquipoDos": 1
+},{
+  "_id": {
+    "$oid": "663ef18fa919962ab9590cd3"
+  },
+  "idEncuentro": 1,
+  "golesEquipoUno": 2,
+  "golesEquipoDos": 4
+},{
+  "_id": {
+    "$oid": "663ef18fa919962ab9590cd4"
+  },
+  "idEncuentro": 3,
+  "golesEquipoUno": 3,
+  "golesEquipoDos": 2
+},{
+  "_id": {
+    "$oid": "663ef18fa919962ab9590cd5"
+  },
+  "idEncuentro": 5,
+  "golesEquipoUno": 1,
+  "golesEquipoDos": 0
+},{
+  "_id": {
+    "$oid": "663ef18fa919962ab9590cd6"
+  },
+  "idEncuentro": 2,
+  "golesEquipoUno": 0,
+  "golesEquipoDos": 4
+}]

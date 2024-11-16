@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "663ee010a919962ab9590cb3"
+  },
+  "nombre": "Real Madrid ",
+  "pais": "España ",
+  "entrenador": "Carlo Ancelotti",
+  "idJugadores": 1
+},{
+  "_id": {
+    "$oid": "663ee010a919962ab9590cb4"
+  },
+  "nombre": "Manchester United",
+  "pais": "Inglaterra  ",
+  "entrenador": "Ralf Rangnick",
+  "idJugadores": 5
+},{
+  "_id": {
+    "$oid": "663ee010a919962ab9590cb5"
+  },
+  "nombre": "Juventus  ",
+  "pais": "Italia  ",
+  "entrenador": "Massimiliano Allegri",
+  "idJugadores": 3
+},{
+  "_id": {
+    "$oid": "663ee010a919962ab9590cb6"
+  },
+  "nombre": "Liverpool ",
+  "pais": "Inglaterra  ",
+  "entrenador": "Jürgen Klopp",
+  "idJugadores": 4
+},{
+  "_id": {
+    "$oid": "663ee010a919962ab9590cb7"
+  },
+  "nombre": "AC Milan ",
+  "pais": "Italia  ",
+  "entrenador": "Stefano Pioli",
+  "idJugadores": 2
+}]

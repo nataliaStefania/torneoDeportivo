@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "663edd68a919962ab9590ca7"
+  },
+  "nombre": "Carlos ",
+  "apellido": "Gutierrez",
+  "edad": 25,
+  "posicion": "Delantero sentro"
+},{
+  "_id": {
+    "$oid": "663edd68a919962ab9590ca8"
+  },
+  "nombre": "Andres ",
+  "apellido": "Arias",
+  "edad": 29,
+  "posicion": "Volante"
+},{
+  "_id": {
+    "$oid": "663edd68a919962ab9590ca9"
+  },
+  "nombre": "Julian ",
+  "apellido": "Cuadrado",
+  "edad": 26,
+  "posicion": "Pivote"
+},{
+  "_id": {
+    "$oid": "663edd68a919962ab9590caa"
+  },
+  "nombre": "Nicolas ",
+  "apellido": "Rodriguez",
+  "edad": 28,
+  "posicion": "Central"
+},{
+  "_id": {
+    "$oid": "663edd68a919962ab9590cab"
+  },
+  "nombre": "Stiven ",
+  "apellido": "Torres",
+  "edad": 30,
+  "posicion": "Libero"
+}]

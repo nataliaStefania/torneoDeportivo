@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "663ee860a919962ab9590cbd"
+  },
+  "nombre": "Stefano  ",
+  "apellido": "Pioli",
+  "edad": 45,
+  "nacionalidad": "Italiano"
+},{
+  "_id": {
+    "$oid": "663ee860a919962ab9590cbe"
+  },
+  "nombre": "Jürgen ",
+  "apellido": "Klopp",
+  "edad": 39,
+  "nacionalidad": "Inglés"
+},{
+  "_id": {
+    "$oid": "663ee860a919962ab9590cbf"
+  },
+  "nombre": "Massimiliano ",
+  "apellido": "Allegri",
+  "edad": 48,
+  "nacionalidad": "Italiano"
+},{
+  "_id": {
+    "$oid": "663ee860a919962ab9590cc0"
+  },
+  "nombre": "Ralf ",
+  "apellido": "Rangnick",
+  "edad": 50,
+  "nacionalidad": "Inglés"
+},{
+  "_id": {
+    "$oid": "663ee860a919962ab9590cc1"
+  },
+  "nombre": "Carlo ",
+  "apellido": "Ancelotti",
+  "edad": 35,
+  "nacionalidad": "Español"
+}]
